@@ -1,0 +1,15 @@
+* {
+    background: rgb(0, 247, 255);
+    color: red;
+    border: 2px, solid, springgreen;
+}
+
+h1 {
+    margin: auto;
+    border: 1px, solid, red;
+
+}
+
+h2 {
+    border: 2px, solid, seagreen;
+}
